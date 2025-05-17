@@ -11,5 +11,5 @@ Implemented nearly 20 quantitative financial factors based on financial statemen
 ## 注意事项：
 1. 所有因子均已完成全量及增量测试  
 2. 数据源自XData系统，支持股票数据实时更新  
-3. 每个因子中文名称对应四位数字  
+3. 每个因子中文名称对应四位数字，方便查找因子  
 4. 文件中已包含其他补充说明  
